@@ -7,7 +7,6 @@ This is a backend API for an e-commerce store built using **Node.js**, **Express
 - **Search** products by name.
 - **Sort** products by fields like price, rating, etc.
 - **Pagination** for large datasets.
-- **CRUD** operations for products (optional if implemented).
 
 ## Tech Stack
 - **Node.js**
