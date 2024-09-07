@@ -42,7 +42,7 @@ MONGO_URI=<your-mongodb-connection-string>
 ```bash
 npm start
 ```
-- The API will be running at http://localhost:3000.
+- The API will be running at http://localhost:3000/api/v1/products.
 
 ## API Endpoints
 
