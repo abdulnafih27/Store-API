@@ -1,4 +1,4 @@
-# Store API Backend
+# Store API
 
 This is a backend API for an e-commerce store built using **Node.js**, **Express**, and **MongoDB** with **Mongoose** as the ODM (Object Data Modeling). The API allows for filtering, searching, sorting, and pagination of products. It returns JSON responses for all requests.
 
@@ -26,8 +26,8 @@ Ensure you have the following installed:
 ### Getting Started
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/store-api-backend.git
-cd store-api-backend
+git clone https://github.com/abdulnafih27/Store-API.git
+cd Store-API
 ```
 
 2. Install the dependencies:
